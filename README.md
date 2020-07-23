@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=crispgm&show_icons=true&theme=cobalt  " />
+
 I am a software engineer of fullstack web development.
