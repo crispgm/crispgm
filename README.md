@@ -17,4 +17,4 @@ I am a [custom mechanical keyboard enthusiast](https://crisp.dev/keyboard.html).
 - nvim Plugins: [nvim-tabline](https://github.com/crispgm/nvim-tabline)
 - And more: [Awesome CN Café](https://github.com/ElaWorkshop/awesome-cn-cafe)
 
-<a href="https://www.buymeacoffee.com/crispgm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/crispgm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="60px" width="217px"></a>
