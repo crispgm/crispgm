@@ -7,7 +7,7 @@ I am a [custom mechanical keyboard enthusiast](https://crisp.dev/keyboard.html).
 ### Contacts
 
 - Home Page: <https://crisp.dev>
-- Personal Wiki: <https://david-zhang.gitbook.io/wiki/>
+- Personal Wiki: <https://crispgm.github.io/wiki-base/>
 
 ### Projects
 
